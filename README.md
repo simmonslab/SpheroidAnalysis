@@ -1,4 +1,3 @@
-# SpheroidAnalysis
 # CellProfiler pipeline for SpheroidAnalysis — instructions and manuscript details
 
 This README includes the pipeline details from our manuscript and step-by-step instructions for editing and committing the CellProfiler pipeline used for spheroid analysis.
